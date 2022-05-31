@@ -1,4 +1,4 @@
-# Racket-AI-Game-Task
+# Racket-AI-Game
 
 Simple Racket Game include with AI
 
